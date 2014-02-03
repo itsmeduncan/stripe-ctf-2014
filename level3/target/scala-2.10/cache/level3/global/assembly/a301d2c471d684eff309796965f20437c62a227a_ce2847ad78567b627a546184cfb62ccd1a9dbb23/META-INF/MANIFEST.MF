@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.twitter
+Implementation-Title: twitter-server
+Implementation-Version: 1.0.2
+Implementation-Vendor-Id: com.twitter
+Specification-Vendor: com.twitter
+Specification-Title: twitter-server
+Specification-Version: 1.0.2
+

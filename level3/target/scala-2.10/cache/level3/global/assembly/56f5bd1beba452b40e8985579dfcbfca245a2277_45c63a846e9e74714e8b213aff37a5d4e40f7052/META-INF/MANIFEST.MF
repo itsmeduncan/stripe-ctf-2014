@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.twitter
+Implementation-Title: util-jvm
+Implementation-Version: 6.3.7
+Implementation-Vendor-Id: com.twitter
+Specification-Vendor: com.twitter
+Specification-Title: util-jvm
+Specification-Version: 6.3.7
+Main-Class: com.twitter.jvm.EstimatorTest
+

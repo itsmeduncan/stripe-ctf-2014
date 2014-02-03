@@ -1,0 +1,3 @@
+com.twitter.finagle.memcached.TwitterCacheResolver
+com.twitter.finagle.zookeeper.ZkResolver
+com.twitter.server.FlagResolver

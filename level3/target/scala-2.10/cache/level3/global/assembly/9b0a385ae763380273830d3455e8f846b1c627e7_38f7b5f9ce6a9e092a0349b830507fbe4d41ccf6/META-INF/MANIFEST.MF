@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.twitter
+Implementation-Title: util-core
+Implementation-Version: 6.3.8
+Implementation-Vendor-Id: com.twitter
+Specification-Vendor: com.twitter
+Specification-Title: util-core
+Specification-Version: 6.3.8
+Main-Class: com.twitter.examples.concurrent.Sieve
+

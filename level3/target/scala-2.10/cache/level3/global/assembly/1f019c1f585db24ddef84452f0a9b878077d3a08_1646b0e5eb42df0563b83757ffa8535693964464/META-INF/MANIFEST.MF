@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.twitter
+Implementation-Title: finagle-core
+Implementation-Version: 6.5.2
+Implementation-Vendor-Id: com.twitter
+Specification-Vendor: com.twitter
+Specification-Title: finagle-core
+Specification-Version: 6.5.2
+Main-Class: com.twitter.finagle.loadbalancer.Benchmark
+

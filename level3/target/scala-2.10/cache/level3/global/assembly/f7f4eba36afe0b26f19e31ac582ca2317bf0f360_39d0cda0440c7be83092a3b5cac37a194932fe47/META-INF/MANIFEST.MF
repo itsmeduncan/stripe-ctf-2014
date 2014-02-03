@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.twitter
+Implementation-Title: finagle-memcached
+Implementation-Version: 6.5.2
+Implementation-Vendor-Id: com.twitter
+Specification-Vendor: com.twitter
+Specification-Title: finagle-memcached
+Specification-Version: 6.5.2
+Main-Class: com.twitter.finagle.memcached.java.ClientTest
+

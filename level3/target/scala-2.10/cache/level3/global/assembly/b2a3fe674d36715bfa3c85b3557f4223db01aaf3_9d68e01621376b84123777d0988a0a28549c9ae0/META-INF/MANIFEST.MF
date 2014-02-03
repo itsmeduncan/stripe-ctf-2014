@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.twitter
+Implementation-Title: finagle-stream
+Implementation-Version: 6.5.2
+Implementation-Vendor-Id: com.twitter
+Specification-Vendor: com.twitter
+Specification-Title: finagle-stream
+Specification-Version: 6.5.2
+

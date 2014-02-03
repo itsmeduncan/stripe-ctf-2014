@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.twitter
+Implementation-Title: finagle-http
+Implementation-Version: 6.5.1
+Implementation-Vendor-Id: com.twitter
+Specification-Vendor: com.twitter
+Specification-Title: finagle-http
+Specification-Version: 6.5.1
+
